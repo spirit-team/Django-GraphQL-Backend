@@ -1,0 +1,13 @@
+# Meta
+**/.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+venv
+
+#Python cache
+__pycache__
